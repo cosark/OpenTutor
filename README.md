@@ -63,6 +63,7 @@ Open [http://localhost:3001](http://localhost:3001). Done.
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/zijinz456/OpenTutor)
 [![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/template?referralCode=opentutor&repo=https://github.com/zijinz456/OpenTutor)
+<a href="https://repocloud.io/details/OpenTutor/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="40"></a>
 
 <details>
 <summary><strong>Manual setup (without Docker)</strong></summary>
